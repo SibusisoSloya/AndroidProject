@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="DailyRoutine"
+        android:id="@+id/Routine"
+        android:icon="@drawable/ic_baseline_date_range_24"/>
+    <item android:title="Journal"
+        android:id="@+id/Journal"
+        android:icon="@drawable/ic_baseline_today_24"/>
+    <item android:title="DailyTask"
+        android:id="@+id/Task"
+        android:icon="@drawable/ic_baseline_create_24"/>
+    <item android:title="Appointment"
+        android:id="@+id/Appointment_id"
+        android:icon="@drawable/ic_baseline_next_week_24"/>
+</menu>
